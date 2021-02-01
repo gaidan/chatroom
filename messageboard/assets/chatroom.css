@@ -1,0 +1,7 @@
+#chathistory {
+	outline: 1px solid black;
+	width: 60%;
+	height: 80%;
+	background-color: #99ccff;
+	text-align: left;
+}
