@@ -1,0 +1,11 @@
+#maindiv {
+	outline: 1px solid black;
+	width: 10%;
+	background-color: #99ccff;
+}
+
+#information {
+	outline: 1px solid black;
+	width: 10%;
+	background-color: #ffff99;
+}
