@@ -1,0 +1,22 @@
+<html>
+<head>
+	<script src="hangman.js"></script>
+	<link rel="stylesheet" href="hangman.css">
+	<title>
+		hangman
+	</title>
+</head>
+<body style="background-image: url('images/hangman.jpg');">
+	<center>
+	<div id="hangman">
+	<h1>
+		<a href="/" id="tomainpage">hangman</a>
+	</h1>
+	<p id="wordplaceholder">a</p><br><br><p id="totalwrong">0</p><br>
+	<input type="text" id="userinput"></input><button id="guess" onclick="guess()">guess</button><br>
+	<p id="score">Score: 0</p><br>
+	</center>
+	</div>
+	<script>changeword()</script>
+</body>
+</html>
