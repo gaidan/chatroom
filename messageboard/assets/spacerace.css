@@ -1,0 +1,14 @@
+#spacerace {
+	outline: 1px solid black;
+	width: 50%;
+	height: 90%;
+	background-color: #99ccff;
+}
+
+#tomainpage {
+	color: black;
+}
+
+#tomainpage:hover {
+	color: #ff9999;
+}
